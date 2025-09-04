@@ -1,0 +1,21 @@
+trial,phase,matrix,tone_row,correct_row,response_row
+1,practice,D Q L R\nX F B T\nQ T W G,0,DQLR,DQLR
+2,practice,L G R J\nV D J C\nG U P X,1,VDJC,PCGF
+3,practice,I T Z A\nH S C T\nF S V H,0,ITZA,RUPY
+4,practice,Y A U E\nB J K A\nJ V P X,2,JVPX,YOUT
+5,practice,E U H D\nA J Y L\nB T M J,1,AJYL,IPUT
+1,experiment,Y W B M\nJ X U B\nW U S A,2,WUSA,UPIY
+2,experiment,H J D U\nY R O U\nB A D T,0,HJDU,BADT
+3,experiment,U B S F\nW N A O\nI J S D,1,WNAO,XDGH
+4,experiment,C S Z U\nB I V P\nO B Z R,0,CSZU,BIVP
+5,experiment,C X W U\nQ P F E\nX G M K,1,QPFE,QPVD
+6,experiment,M F I H\nV R X Z\nZ M C L,0,MFIH,VRXD
+7,experiment,Z Y E G\nJ D X H\nS L J O,2,SLJO,JDXH
+8,experiment,V P B K\nF U L N\nV H P E,1,FULN,FULN
+9,experiment,F D G T\nB C G H\nK P F Q,1,BCGH,BCGH
+10,experiment,W B U D\nU X Y F\nL F Q M,0,WBUD,UXVY
+11,experiment,O K C I\nO V U H\nE N H D,2,ENHD,OPGH
+12,experiment,S B C U\nW E N Z\nG V R H,1,WENZ,WENZ
+13,experiment,P O M U\nZ T D M\nX D F N,1,ZTDM,ZTPM
+14,experiment,A X I N\nW M D O\nU C O I,1,WMDO,WMDO
+15,experiment,G R W Q\nQ P I N\nL N Y Q,0,GRWQ,QPIN

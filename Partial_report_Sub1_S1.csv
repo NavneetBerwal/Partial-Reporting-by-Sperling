@@ -1,0 +1,21 @@
+trial,phase,matrix,tone_row,correct_row,response_row
+1,practice,I R U C\nJ E X L\nE B G R,1,JEXL,JXLC
+2,practice,U R Q P\nT I H B\nP H E Y,0,URQP,PHEB
+3,practice,V G N T\nV S E K\nO U P Z,2,OUPZ,OUPZ
+4,practice,G K F I\nK J T W\nE S G N,1,KJTW,KJTW
+5,practice,M I N P\nX M I V\nE V J C,1,XMIV,XMIV
+1,experiment,L F C X\nQ G O I\nD K P V,1,QGOI,QGOL
+2,experiment,H S O Z\nI P X T\nU B R J,2,UBRJ,UBPRJ
+3,experiment,Y T J G\nG L F D\nE X V T,2,EXVT,GLFD
+4,experiment,K S I T\nC Z I F\nY K X Q,1,CZIF,CZIF
+5,experiment,C B U Y\nY P Q G\nL Y E O,2,LYEO,YQPZ
+6,experiment,A E P B\nS I P A\nS V L P,2,SVLP,AFPB
+7,experiment,W P F I\nW S E B\nY O E N,0,WPFI,WSEB
+8,experiment,X H F N\nS Z O B\nN U E W,0,XHFN,SZOB
+9,experiment,M F J L\nP R J K\nV Q W F,2,VQWF,GSGG
+10,experiment,Y D H Q\nJ A S X\nR A X W,1,JASX,JASX
+11,experiment,Q X R W\nY V B X\nG J F K,1,YVBX,CJXV
+12,experiment,J H Q O\nR F C G\nL I A V,2,LIAV,JQHD
+13,experiment,Z D K X\nP H G J\nS B T G,1,PHGJ,SBTG
+14,experiment,V R K S\nA Z G Y\nW H V G,2,WHVG,WHXG
+15,experiment,N K E Z\nG U F P\nB R I X,2,BRIX,NXEG
